@@ -1,1 +1,0 @@
-Comprobador de Palíndromos, alfanumérico, sin carácteres especiales ni espacios.
